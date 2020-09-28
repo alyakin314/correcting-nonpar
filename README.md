@@ -37,6 +37,9 @@ Launching a jupyter in a local installaiton can be acomplished as:
 jupyter notebook
 ```
 
+### Note
+Due to the consequences of the **GraSPy** and **topologic** merger, as well as other versioning improvements (notably, using **neurodata/hyppo** as the backend of the latent distribution test), it may be that the results obtained from rerunning the notebooks can be slightly different from those obtained by us, even if seeded. They should, however, tell the same story. In particular, the tests should not have switched from expirementally invalid to valid anywere.
+
 ### Refrences
 > Alyakin, A., Agterberg, J., Helm, H., Priebe C.E. (2020). Correcting a Nonparametric Two-sample Graph Hypothesis Test for Graphs with Different Numbers of Vertices. arXiv:2008.09434.
 
