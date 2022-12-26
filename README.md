@@ -18,12 +18,12 @@ Notably, **graspologic** implements the latent distribution test both with and w
 
 Graspologic can be easily installed from pip
 ```
-pip install graspy
+pip install graspologic
 ```
 or from its home repository
 ```
 git clone https://github.com/microsoft/graspologic
-cd graspy
+cd graspologic
 python3 setup.py install
 ```
 
