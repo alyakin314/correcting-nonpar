@@ -12,5 +12,7 @@ WORKDIR /usr/src/app
 
 RUN pip install --no-cache-dir --upgrade pip
 
-RUN pip install --no-cache-dir graspologic==3.0.0.dev3875998805
+RUN pip install --no-cache-dir graspologic==3.0.0
+
+RUN pip install --no-cache-dir notebook==7.0
 

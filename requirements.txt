@@ -1,1 +1,2 @@
-graspologic
+graspologic==3.0.0
+notebook==7.0
