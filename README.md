@@ -8,7 +8,7 @@ This repository contains
 
 ## Requirements
 ### Python
-Contents of this repository, including all simulations, have been tested on Python 3.6 and 3.7.
+Contents of this repository, including all simulations, have been tested on Python 3.9.
 
 ### graspologic
 Our simulations rely heavily on [microsoft/graspologic](https://github.com/microsoft/graspologic), which is a Python package used to perform statistical inference on graph- and network- valued data. **graspologic** originated from the merger of **neurodata/graspy** and **microsoft/topologic**, which began in September 2020 and is currently undergoing.
