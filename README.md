@@ -19,13 +19,13 @@ Our simulations rely heavily on [microsoft/graspologic](https://github.com/micro
 
 Graspologic can be easily installed from pip
 ```
-pip install graspologic
+pip install graspologic==3.0.0
 ```
 
 #### jupyter
 The only other package that is required to reproduce the results and is not installed as a part of graspy is [jupyter notebook](https://github.com/jupyter/notebook). This module It is also easily installed via pip:
 ```
-pip install jupyter
+pip install jupyter=7.0
 ```
 Launching a jupyter in a local installaiton can be acomplished as:
 ```
