@@ -33,6 +33,6 @@ jupyter notebook
 ```
 
 ## Refrences
-> Alyakin, A.A., Agterberg, J., Helm, H.S. et al. Correcting a nonparametric two-sample graph hypothesis test for graphs with different numbers of vertices with applications to connectomics. Appl Netw Sci 9, 1 (2024). https://doi.org/10.1007/s41109-023-00607-x
+> Alyakin, A.A., Agterberg, J., Helm, H.S., Priebe, C.E.. Correcting a nonparametric two-sample graph hypothesis test for graphs with different numbers of vertices with applications to connectomics. Appl Netw Sci 9, 1 (2024). https://doi.org/10.1007/s41109-023-00607-x
 
 > Chung, J., Pedigo, B. D., Bridgeford, E. W., Varjavand, B. K., Helm, H. S., & Vogelstein, J. T. (2019). GraSPy: Graph Statistics in Python. Journal of Machine Learning Research, 20(158), 1-7.
